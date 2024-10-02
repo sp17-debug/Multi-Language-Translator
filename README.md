@@ -83,5 +83,15 @@ Acknowledgments:
 Facebook AI: For the NLLB-200 Distilled 600M model.
 Hugging Face: For the transformers library.
 Gradio: For creating the user-friendly interface.
+Acknowledgments
+This project incorporates code and models from the [Hugging Face Transformers](https://huggingface.co/transformers/) library. The pre-trained model used for translation is provided by Hugging Face and the [NLLB-200 model](https://huggingface.co/facebook/nllb-200-distilled-600M) developed by Facebook AI.
+
+Special thanks to Hugging Face for providing open-source tools and models that made the development of this project possible.
+
+In compliance with Hugging Face's guidelines and licenses, the following acknowledgment and reference are provided:
+Hugging Face Transformers: [https://huggingface.co/transformers/](https://huggingface.co/transformers/)
+NLLB-200 Model: [https://huggingface.co/facebook/nllb-200-distilled-600M](https://huggingface.co/facebook/nllb-200-distilled-600M)
+
+This acknowledgment ensures that Hugging Face is credited for their contributions to the tools and models used in your project, in line with open-source best practices.
 License:
 This project is licensed under the MIT License.
